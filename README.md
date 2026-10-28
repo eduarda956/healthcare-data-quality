@@ -87,7 +87,7 @@ Eduarda Correia
 
 ## Full Research Paper
 
-[Read the full research paper (PDF)](healthcare-data-quality.pdf)
+[Read the full research paper (PDF)](Trabalho_TP2_Qualidade_Dados_Sa%C3%BAde.pdf)
 
 ## Keywords
 
